@@ -1,1 +1,2 @@
 hi this is new branch
+When working with other people, sometimes they will add work to GitHub that you don't have yet. You'll need to download those updates frequently, and here's how.
